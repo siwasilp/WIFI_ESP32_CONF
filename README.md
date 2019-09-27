@@ -1,7 +1,9 @@
 # WIFI_ESP32_CONF
 
-=> ESP32_Conf [main_pg]
-=> IotWebConf-master [lib]
+x ESP32_Conf [main_pg].
+
+x IotWebConf-master [lib].
+
 ----------------------------------------------------------
 vol.1 -> โครงสร้างหลัก
 
